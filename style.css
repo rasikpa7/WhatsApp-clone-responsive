@@ -1,0 +1,57 @@
+body{
+    margin: 0%;
+}
+.sec1-h1{
+    font-size: 33px;
+    text-align: left;
+    font-weight: 400;
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+    
+}
+#sec1-p1{
+   
+   font-family: Roboto, Helvetica, Arial, sans-serif;
+   font-size: 18px;
+   font-weight: 400;
+}
+.sec1-p2{
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    color: #5E5E5E;
+}
+#android{
+    font-size: 21px; color: #128C7E; line-height: 50px; cursor: pointer;
+}
+#apple{
+    font-size: 21px; color: #128C7E; line-height: 50px; cursor: pointer;
+}
+#desktop{
+     color: #128C7E; line-height: 50px; font-size: 16px; cursor: pointer;
+}
+.mac{
+    color: #128C7E; font-size: 21px;
+    font-family:Font Awesome 6 Brands;
+    font-weight: 400;  
+}
+.img-1{
+    width: 304px; height: 572.65px;
+}
+.wba{
+    font-size: 34px;
+    line-height: 44px;
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+    font-weight: 700;
+}
+.wba-text{
+    font-size: 18px;
+    font-weight: 400;
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+    color: black;
+}
+.wba-text2{
+    font-size: 18px;
+    font-weight: 400;
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+    color: black;
+}
+
